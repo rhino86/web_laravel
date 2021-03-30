@@ -1,0 +1,226 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ * 
+ */
+
+/*# sourceMappingURL=custom.css.map */
+body.layout-3 .body-register {
+    padding-top: 30px;
+}
+body.layout-3 .body-register .form-group{
+    margin-bottom: 20px;
+}
+
+.txt-black{
+    color: black !important;
+}
+.txt-danger{
+    color:rgba(255, 0, 0, 0.678) !important;
+    font-size: 12px;
+}
+
+.float-left{
+    float: left !important;
+}
+.cs-float-right{
+    float: right !important;
+    right: 0 !important;
+    position: absolute;
+}
+
+.link-user:hover{
+    text-decoration: none;
+}
+
+.btn-service{
+    padding:0.7rem .8rem;
+}
+
+.input-group-text {
+    background-color: #c7c7c7;
+    margin-left: -2px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.pricing .pricing-details{
+    display: inline;
+}
+.pricing .pricing-details .pricing-item .pricing-item-icon{
+    width: 30px;
+    height: 30px;
+    padding: 5px 10px;
+}
+
+.pricing .pricing-details .pricing-item .pricing-item-label {
+    display: inline;
+    margin-top: 4px;
+}
+.d-inline-block-cs{
+    display: inline-block !important;
+}
+
+.fr-custom .form-group{
+    margin-bottom: 20px;
+}
+
+.fr-custom .mb-10-px {
+    margin-bottom: 10px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__display {
+    padding-left: 12px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow b{
+    border-width: 7px 6px 0 6px;
+}
+
+.select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b{
+    border-width: 0 6px 7px 6px;
+}
+
+.form-control-textarea {
+    width: 100%;
+    font-size: 14px;
+    padding: 10px 15px;
+    background-clip: padding-box;
+    border-radius: .25rem;
+    background-color: #fdfdff;
+    border-color: #e4e6fc;
+}
+.form-control-textarea:focus{
+    background-color: #fefeff;
+    border-color: #95a0f4;
+    box-shadow: none !important;
+    outline: none;
+}
+
+.badge-type {
+    color: #fff;
+    font-size: 11px;
+    padding: 1px 8px;
+    border-radius: 5px;
+}
+
+.Influencer{
+    background: #232379;
+}
+
+.Komunitas{
+    background: #4ab51e;
+}
+.Singlesite{
+    background: #1e68b5;
+}
+
+.non-type{
+    background: #b51e33;
+}
+
+.badge-small{
+    font-size: 10px;
+}
+
+.list-none{
+    list-style: none;
+    margin-left: -35px;
+}
+.list-none li{
+    margin-left: 0px;
+}
+.list-sosmed li{
+    margin-right: 10px;
+}
+.list-sosmed li a{
+    color:black;
+}
+.list-sosmed li a:hover{
+    color: blueviolet;
+}
+.list-sosmed li a i{
+    font-size: 20px;
+}
+
+.kol-sosmed .card{
+    min-height: 300px;
+}
+
+.kol-sosmed .card form button,
+.kol-sosmed .card .btn-info,
+.kol-sosmed .card .btn-danger {
+    bottom: 0;
+    position: absolute;
+    width: 90%;
+    margin-bottom: 28px;
+}
+.btn-filter{
+    font-size: 17px;
+    padding: 0.8rem;
+}
+.btn-filter i{
+    font-size: 16px;
+}
+
+.btn-close {
+    box-sizing: content-box;
+    width: 1em;
+    height: 1em;
+    padding: .25em .25em;
+    color: #000;
+    background: transparent;
+    border: 0;
+    border-radius: .25rem;
+    opacity: .5;
+}
+
+.select2-container--default{
+    width: 100% !important;
+}
+
+/* .btn-group-sosmed label [type=checkbox] {
+    width: 13px;
+    height: 13px;
+    padding: 0;
+    margin:0;
+    vertical-align: bottom;
+    position: relative;
+    top: -1px;
+    *overflow: hidden;
+}
+.btn-group-sosmed label{
+    padding: 10px 25px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    width: 100%;
+    display: block;
+}
+
+.btn-group-sosmed label.checked-label {
+    border-color: #6c757d;
+    
+}
+
+.btn-group-sosmed label i{
+    font-size: 30px;
+} */
+
+.use-profile{
+    margin-bottom: 75px;
+}
+
+.use-profile li{
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+
+.kol-sosmed .card-body a:hover{
+    text-decoration: none;
+}
+
+.page-link{
+    background-color:#fff;
+}
